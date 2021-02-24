@@ -1,4 +1,4 @@
-package ua.TechnicalInterveByJava.Constructors;
+package ua.TechnicalInterveByJava.OOP.Constructors;
 //Перегрузка конструктора в Java - это метод наличия
 // более одного конструктора с разными списками параметров.
 // Они организованы таким образом, что каждый конструктор

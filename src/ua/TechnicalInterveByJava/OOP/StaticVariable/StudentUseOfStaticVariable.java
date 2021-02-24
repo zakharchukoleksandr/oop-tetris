@@ -1,4 +1,4 @@
-package ua.TechnicalInterveByJava.StaticVariable;
+package ua.TechnicalInterveByJava.OOP.StaticVariable;
 //Понимание проблемы без статической переменной
 //1.	class Student{
 //2.	     int rollno;

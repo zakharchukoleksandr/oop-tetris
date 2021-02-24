@@ -1,4 +1,4 @@
-package ua.TechnicalInterveByJava.JavaCopyConstructor;
+package ua.TechnicalInterveByJava.OOP.JavaCopyConstructor;
 
 //Java program to initialize the values from one object to another object.
 public class Student6 {

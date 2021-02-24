@@ -1,4 +1,4 @@
-package ua.TechnicalInterveByJava.JavaCopyConstructor;
+package ua.TechnicalInterveByJava.OOP.JavaCopyConstructor;
 //Мы можем скопировать значения одного объекта в другой,
 // присвоив значения объекта другому объекту.
 // В этом случае нет необходимости создавать конструктор.

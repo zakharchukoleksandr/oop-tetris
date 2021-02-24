@@ -1,4 +1,4 @@
-package ua.TechnicalInterveByJava.Constructors;
+package ua.TechnicalInterveByJava.OOP.Constructors;
 
 //В этом примере мы создаем конструктор без
 // аргументов в классе Bike.

@@ -1,4 +1,4 @@
-package ua.TechnicalInterveByJava.Constructors;
+package ua.TechnicalInterveByJava.OOP.Constructors;
 //Java Program to create and call a default constructor
 
 public class Student4ParameterizedConstructor {
