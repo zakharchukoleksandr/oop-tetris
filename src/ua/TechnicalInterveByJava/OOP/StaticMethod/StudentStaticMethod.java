@@ -22,6 +22,6 @@ public class StudentStaticMethod {
         System.out.println(rollno + " " + name + " " + college);
     }
 }
-//Test class to create and display the values of object
+//TestAssignLinkToThis class to create and display the values of object
 
 
