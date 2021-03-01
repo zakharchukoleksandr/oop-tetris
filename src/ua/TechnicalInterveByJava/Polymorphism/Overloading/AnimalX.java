@@ -10,15 +10,15 @@ public class AnimalX {
         {
             System.out.println(a + " consumed!!");
         }
-        static void consume ( int a)
+       // static void consume ( int a)
         {
-            System.out.println("consumed static " + a);
+       //     System.out.println("consumed static " + a);
         }
         public static void main (String args[])
         {
             AnimalX a = new AnimalX();
-            a.consume(10);
-            AnimalX.consume(20);
+        //    a.consume(10);
+         //   AnimalX.consume(20);
         }
 
     }

@@ -11,7 +11,7 @@ public class OverloadingCalculationV {
 
     public static void main(String args[]) {
         OverloadingCalculationV obj = new OverloadingCalculationV();
-        obj.sum(20, 20);//now ambiguity
+      //  obj.sum(20, 20);//now ambiguity
     }
 
 }
