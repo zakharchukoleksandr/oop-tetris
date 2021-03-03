@@ -23,3 +23,5 @@ public class ConcatABC {
 
 }
 
+//ABCDEF
+//onetwothree
