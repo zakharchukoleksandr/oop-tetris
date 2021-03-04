@@ -27,7 +27,8 @@ import java.util.Map;
 public class JPIterationObject {
     public static void main(String[] args) {
         // 6  test  for Java developer interviews
-        HashMap<Integer,String> keyValue = new HashMap<Integer,String>();
+        HashMap<Integer,String> keyValue =
+                new HashMap<Integer,String>();
         keyValue.put(1, " Hello");
         keyValue.put(2, " World");
         keyValue.put(3, " Have a nice day!");

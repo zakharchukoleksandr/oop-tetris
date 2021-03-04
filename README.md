@@ -877,6 +877,16 @@ ________________________________________
 
 https://itvdn.com/ru/blog/article/test-java-20#1
 
+ПОДГОТОВКА К СОБЕСЕДОВАНИЮ В IT КОМПАНИИ. ВОПРОСЫ И ОТВЕТЫ. ХИТРОСТИ. ТРЮКИ.
+https://itvdn.com/ru/video/interview
+
+Top 20 Java Interview Programs For Programming And Coding 
+Interviewhttps:
+//www.softwaretestinghelp.com/java-coding-interview-programs/
+
+java-developer
+https://itvdn.com/ru/specialities/java-developer
+
 
 
 
