@@ -887,9 +887,11 @@ Interviewhttps:
 java-developer
 https://itvdn.com/ru/specialities/java-developer
 
+Руководство по языку программирования Java
+https://metanit.com/java/tutorial/
 
-
-
+Java Interview Questions and Programming Examples
+https://www.codingame.com/playgrounds/35979/java-interview-questions-and-programming-examples
 
 
 
