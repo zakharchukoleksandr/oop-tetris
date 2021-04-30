@@ -1,6 +1,6 @@
 package ua.TechnicalInterveByJava;
 
-public class AgeDifferents {
+public class AgeDifferences {
 
         public static void main(String[] args) {
 
